@@ -1,4 +1,4 @@
-# CSCE1015 - Hochstetler
+# CSCE1015
 Assignment repository for UNT CSCE1015
 ## jac1211
 jac1211
